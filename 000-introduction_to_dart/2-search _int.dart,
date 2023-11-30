@@ -1,0 +1,7 @@
+void main () {
+print(findIndexOfFirstOccurrence(arr));
+}
+int findIndexOfFirstOccurrence(int arr) {
+  arr = [4, 3, 5];
+  return arr[0];
+}
